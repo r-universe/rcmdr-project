@@ -9,3 +9,4 @@
 [submodule "RcmdrMisc"]
 	path = RcmdrMisc
 	url = https://github.com/rcmdr-project/rcmdrmisc
+	subdir = pkg
